@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/12/7 15:40:10。
+     1>项目“D:\大一上学期\编程\鹏哥\项目\程设作业\程设作业\程设作业\程设作业.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\程设作业.res" "程设作业.rc" 
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\大一上学期\编程\鹏哥\项目\程设作业\程设作业\Debug\程设作业.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\大一上学期\编程\鹏哥\项目\程设作业\程设作业\Debug\程设作业.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\大一上学期\编程\鹏哥\项目\程设作业\程设作业\Debug\程设作业.lib" /MACHINE:X86 "Debug\程设作业.res"
+         Debug\game.obj
+         Debug\main.obj
+         Debug\wenzi.obj
+         程设作业.vcxproj -> D:\大一上学期\编程\鹏哥\项目\程设作业\程设作业\Debug\程设作业.exe
+     1>已完成生成项目“D:\大一上学期\编程\鹏哥\项目\程设作业\程设作业\程设作业\程设作业.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.31
